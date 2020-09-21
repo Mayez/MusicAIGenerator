@@ -5,10 +5,10 @@ create music in the style of a certain artist or genre through the power of AI. 
 using the following. I am by no means an expert of AI, its meant more for my learning purposes along with being something I wanted to showcase
 for fun:
 
-Tensorflow\
-Jupyter Notebook\
-LSTM\
-Neural Network\
-Python\
-Keras\
-Midi Files\
+-Tensorflow\
+-Jupyter Notebook\
+-LSTM\
+-Neural Network\
+-Python\
+-Keras\
+-Midi Files
