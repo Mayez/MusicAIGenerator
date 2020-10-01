@@ -12,3 +12,13 @@ for fun:
 -Python\
 -Keras\
 -Midi Files
+
+For this example I used the Imperial March as my song. The .mp3 and .midi files are included of the Imperial March. The AI recognized musical patterns
+from that .midi file and created new music. The file is called TestImperialMarch.midi or TestImperialMarch.mp3 and you can listen to it
+as a musical sample to hear the end product.
+
+Next Steps:
+While a good start there are some things I would like to improve for this project:
+  -Train for longer as I only trained the model for 1-2 hours and around 200 epochs/iterations
+  -Maybe use AWS machine learning tools to assist 
+  -Find music that is longer and more diverse to get better results.
