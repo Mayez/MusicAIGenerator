@@ -1,5 +1,5 @@
 # MusicAIGenerator
-# All files available at : https://www.dropbox.com/sh/t5bc7z3xldoifjp/AAB_YXrqpmQFoW9JlRgFh0CYa?dl=0
+# All files available for download at : https://www.dropbox.com/sh/t5bc7z3xldoifjp/AAB_YXrqpmQFoW9JlRgFh0CYa?dl=0
 # NOTE The music generated file is TestImperialMarch and original is the The Imperial March
 
 This application is a personal project of mine that I have been wanting to work on for a while which involves the use of Machine Learning/AI
